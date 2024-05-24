@@ -1,0 +1,14 @@
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\bin\Debug\Calculator.exe
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\bin\Debug\Calculator.pdb
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.exe
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.pdb
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.Login.resources
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.Registration.resources
+C:\Users\estel\OneDrive\Desktop\OOP\Calculator\obj\Debug\Calculator.PassworsRecovery.resources
